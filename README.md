@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo ✌🏿
 
 - 🔭 I’m currently working on Moon Grabber
 - 🌱 I’m currently learning javascript and html
