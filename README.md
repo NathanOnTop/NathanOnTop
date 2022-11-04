@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning javascript and html
 - 📫 How to reach me: discord Termed$#0001
 
-<img src="https://media.discordapp.net/attachments/755961047327703130/993125456033357885/IMG_1976.png?width=475&height=529">
+<img src="https://media.discordapp.net/attachments/1037071504443183107/1038161256231751712/4EEE6A80-76EE-4656-94E4-6FECBCA3AC2C.gif">
 
